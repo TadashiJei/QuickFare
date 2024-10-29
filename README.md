@@ -35,3 +35,7 @@ With **QuickFare**, transit operators benefit from reduced wait times, faster bo
 - **NFC Reader**: Compatible NFC reader (e.g., ACR122U)
 - **Dependencies**: See `requirements.txt`
 
+
+
+
+npx create-next-app@latest quickfare
